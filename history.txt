@@ -1,0 +1,9 @@
+   0 cp
+   1 home
+   2 cp /home/ /tmp/
+   3 mk home
+   4 mk
+   5 mv /opt/file2.txt /opt/111
+   6 cp
+   7 rm
+   8 history > history.txt
